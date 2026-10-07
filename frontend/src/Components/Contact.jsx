@@ -38,7 +38,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                Shri Madhwa Vadiraja Institute of Technology and Management,<br/> Vishwothama Nagar,<br/> Bantakal,<br/> Udupi – 574 115, Karnataka, India
+                                University of Engineering and Management,<br/> Udaipuria Mod,<br/> Rajasthan, India
                                 </div>
                             </div>
 
@@ -60,7 +60,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +91 1234567890
+                                    +91 8900184100
                                 </div>
                             </div>
 
@@ -82,7 +82,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    lostNfound@sode-edu.in
+                                    dibyajitnandi7205@gmail.com
                                 </div>
                             </div>
                         </div>
